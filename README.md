@@ -1,1 +1,1 @@
-# LMSGI-XML-JSON
+# LMSGI-XML-JSON version 1
