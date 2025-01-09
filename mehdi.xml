@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Documento XML que representa un catálogo de iPhones en una tienda en línea -->
+<tienda>
+    <producto id="I001">
+        <nombre>iPhone 14 Pro Max</nombre>
+        <descripcion>El último modelo con pantalla Super Retina XDR y Dynamic Island.</descripcion>
+        <precio moneda="USD">1099.99</precio>
+        <categoria>Smartphones</categoria>
+        <disponibilidad>En stock</disponibilidad>
+        <imagen>https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone-14-pro-max-gold-202404?wid=2000&hei=2000&fmt=jpeg&qlt=90&.v=1713200629537</imagen>
+    </producto>
+    <producto id="I002">
+        <nombre>iPhone 14</nombre>
+        <descripcion>Pantalla Super Retina XDR de 6.1 pulgadas y chip A15 Bionic.</descripcion>
+        <precio moneda="USD">799.99</precio>
+        <categoria>Smartphones</categoria>
+        <disponibilidad>En stock</disponibilidad>
+        <imagen>https://m.media-amazon.com/images/I/61bK6PMOC3L._AC_UF894,1000_QL80_.jpg</imagen>
+    </producto>
+    <producto id="I003">
+        <nombre>iPhone 13</nombre>
+        <descripcion>Un modelo potente con el chip A15 Bionic y doble cámara avanzada.</descripcion>
+        <precio moneda="USD">699.99</precio>
+        <categoria>Smartphones</categoria>
+        <disponibilidad>En stock</disponibilidad>
+        <imagen>https://r-on.iservices.com/img/p/1/0/6/1/1/10611-large_default.jpg</imagen>
+    </producto>
+    <producto id="I004">
+        <nombre>iPhone 13 Mini</nombre>
+        <descripcion>El diseño compacto con toda la potencia del iPhone 13.</descripcion>
+        <precio moneda="USD">599.99</precio>
+        <categoria>Smartphones</categoria>
+        <disponibilidad>Agotado</disponibilidad>
+        <imagen>https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone-13-mini-midnight-2022?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1679072980362</imagen>
+    </producto>
+    <producto id="I005">
+        <nombre>iPhone SE (3ra Generación)</nombre>
+        <descripcion>Modelo económico con el potente chip A15 Bionic y botón Touch ID.</descripcion>
+        <precio moneda="USD">429.99</precio>
+        <categoria>Smartphones</categoria>
+        <disponibilidad>En stock</disponibilidad>
+        <imagen>https://m.media-amazon.com/images/I/61TOWf11+jL._AC_UF894,1000_QL80_.jpg</imagen>
+    </producto>
+    <producto id="I006">
+        <nombre>iPhone 12</nombre>
+        <descripcion>Pantalla OLED de 6.1 pulgadas y diseño con bordes planos.</descripcion>
+        <precio moneda="USD">599.99</precio>
+        <categoria>Smartphones</categoria>
+        <disponibilidad>En stock</disponibilidad>
+        <imagen>https://m.media-amazon.com/images/I/71ZOtNdaZCL.jpg</imagen>
+    </producto>
+    <producto id="I007">
+        <nombre>iPhone 12 Mini</nombre>
+        <descripcion>El iPhone más compacto con tecnología 5G y cámara dual.</descripcion>
+        <precio moneda="USD">529.99</precio>
+        <categoria>Smartphones</categoria>
+        <disponibilidad>Agotado</disponibilidad>
+        <imagen>https://m.media-amazon.com/images/I/71uuDYxn3XL.jpg</imagen>
+    </producto>
+    <producto id="I008">
+        <nombre>iPhone 11</nombre>
+        <descripcion>El modelo clásico con excelente rendimiento y una pantalla Liquid Retina.</descripcion>
+        <precio moneda="USD">499.99</precio>
+        <categoria>Smartphones</categoria>
+        <disponibilidad>En stock</disponibilidad>
+        <imagen>https://compasia.com.ph/cdn/shop/files/iphone-11-251021_600x.png?v=1717901659</imagen>
+    </producto>
+    <producto id="I009">
+        <nombre>iPhone XR</nombre>
+        <descripcion>Pantalla Liquid Retina y una sola cámara con Modo Retrato.</descripcion>
+        <precio moneda="USD">399.99</precio>
+        <categoria>Smartphones</categoria>
+        <disponibilidad>En stock</disponibilidad>
+        <imagen>https://cdn.alloallo.media/catalog/product/apple/iphone/iphone-xr/iphone-xr-red.jpg</imagen>
+    </producto>
+    <producto id="I010">
+        <nombre>iPhone X</nombre>
+        <descripcion>El revolucionario diseño sin bordes con pantalla OLED y Face ID.</descripcion>
+        <precio moneda="USD">349.99</precio>
+        <categoria>Smartphones</categoria>
+        <disponibilidad>Agotado</disponibilidad>
+        <imagen>https://cdn.alloallo.media/catalog/product/apple/iphone/iphone-x/iphone-x-space-gray.jpg</imagen>
+    </producto>
+</tienda>
