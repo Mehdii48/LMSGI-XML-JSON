@@ -33,7 +33,6 @@
         <friend>
             <name>Anna</name>
             <surname>Smith</surname>
-            <age>null</age>
         </friend>
     </friends>
 </root>
