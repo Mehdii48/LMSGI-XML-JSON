@@ -1,0 +1,94 @@
+{
+    "pokemon_list": [
+      {
+        "id": 4,
+        "name": "Charmander",
+        "types": ["Fuego"],
+        "weight": "8.5 kg",
+        "height": "0.6 m",
+        "stats": {
+          "speed": 65,
+          "attack": 52,
+          "defense": 43
+        },
+        "moves": [
+          {
+            "name": "Arañazo",
+            "description": "Un ataque rápido y simple donde el Pokémon araña al oponente.",
+            "power": 40,
+            "contact": true
+          },
+          {
+            "name": "Ascuas",
+            "description": "Lanza bolas de fuego al oponente.",
+            "power": 40,
+            "contact": false
+          },
+          {
+            "name": "Gruñido",
+            "description": "Reduce el Ataque del oponente con un sonido irritante.",
+            "power": 0,
+            "contact": false
+          },
+          {
+            "name": "Lanzallamas",
+            "description": "Lanza una poderosa llamarada que puede quemar al oponente.",
+            "power": 90,
+            "contact": false
+          }
+        ],
+        "image_url": "https://www.wikidex.net/wiki/Charmander",
+        "evolutions": [
+          {
+            "id": 5,
+            "level": 16
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Squirtle",
+        "types": ["Agua"],
+        "weight": "9.0 kg",
+        "height": "0.5 m",
+        "stats": {
+          "speed": 43,
+          "attack": 48,
+          "defense": 65
+        },
+        "moves": [
+          {
+            "name": "Placaje",
+            "description": "Un ataque físico simple donde el Pokémon choca contra el oponente.",
+            "power": 40,
+            "contact": true
+          },
+          {
+            "name": "Pistola Agua",
+            "description": "Dispara un chorro de agua al oponente.",
+            "power": 40,
+            "contact": false
+          },
+          {
+            "name": "Burbuja",
+            "description": "Lanza burbujas que pueden reducir la velocidad del oponente.",
+            "power": 40,
+            "contact": false
+          },
+          {
+            "name": "Hidrobomba",
+            "description": "Lanza una potente bomba de agua que puede causar un gran daño.",
+            "power": 110,
+            "contact": false
+          }
+        ],
+        "image_url": "https://www.wikidex.net/wiki/Squirtle",
+        "evolutions": [
+          {
+            "id": 8,
+            "level": 16
+          }
+        ]
+      }
+    ]
+  }
